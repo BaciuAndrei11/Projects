@@ -1,0 +1,1 @@
+This game was created to reproduce the "Mysterium" board game. This game was made in c++ with modern elemenst.
