@@ -1,0 +1,13 @@
+Info : Game Phase 1: Date: Sat Apr 24 12:46:47 2021
+
+Info : Round 1:Date: Sat Apr 24 12:46:47 2021
+
+Info : Player1 has 0 points in phase 1.
+Date: Sat Apr 24 12:46:50 2021
+
+Info : Player2 has 0 points in phase 1.
+Date: Sat Apr 24 12:46:51 2021
+
+Info : Player3 has 0 points in phase 1.
+Date: Sat Apr 24 12:46:52 2021
+

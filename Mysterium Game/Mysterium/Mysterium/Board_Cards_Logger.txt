@@ -1,0 +1,1556 @@
+Info : Loaded texture ./ClueCards/Suspect1.png
+Date: Sun Jan 31 17:34:04 2021
+
+Info : Loaded texture ./ClueCards/Suspect2.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect3.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect4.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect5.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect6.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect7.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect8.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect9.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect10.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect11.png
+Date: Sun Jan 31 17:34:05 2021
+
+Info : Loaded texture ./ClueCards/Suspect12.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect13.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect14.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect15.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect16.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect17.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect18.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect19.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect20.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect21.png
+Date: Sun Jan 31 17:34:06 2021
+
+Info : Loaded texture ./ClueCards/Suspect22.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect23.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect24.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect25.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect26.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect27.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect28.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect29.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Suspect30.png
+Date: Sun Jan 31 17:34:07 2021
+
+
+Info : Loaded texture ./ClueCards/Location1.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Location2.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Location3.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Location4.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Location5.png
+Date: Sun Jan 31 17:34:07 2021
+
+Info : Loaded texture ./ClueCards/Location6.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location7.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location8.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location9.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location10.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location11.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location12.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location13.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location14.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location15.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location16.png
+Date: Sun Jan 31 17:34:08 2021
+
+Info : Loaded texture ./ClueCards/Location17.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location18.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location19.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location20.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location21.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location22.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location23.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location24.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location25.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location26.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location27.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location28.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location29.png
+Date: Sun Jan 31 17:34:09 2021
+
+Info : Loaded texture ./ClueCards/Location30.png
+Date: Sun Jan 31 17:34:09 2021
+
+
+Info : Loaded texture ./ClueCards/Weapon1.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon2.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon3.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon4.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon5.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon6.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon7.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon8.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon9.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon10.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon11.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon12.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon13.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon14.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon15.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon16.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon17.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon18.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon19.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon20.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon21.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon22.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon23.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon24.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon25.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon26.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon27.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon28.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon29.png
+Date: Sun Jan 31 17:34:10 2021
+
+Info : Loaded texture ./ClueCards/Weapon30.png
+Date: Sun Jan 31 17:34:11 2021
+
+
+Info : Loaded texture ./VisionCards/Vision1.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision2.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision3.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision4.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision5.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision6.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision7.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision8.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision9.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision10.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision11.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision12.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision13.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision14.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision15.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision16.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision17.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision18.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision19.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision20.png
+Date: Sun Jan 31 17:34:11 2021
+
+Info : Loaded texture ./VisionCards/Vision21.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision22.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision23.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision24.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision25.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision26.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision27.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision28.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision29.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision30.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision31.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision32.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision33.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision34.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision35.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision36.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision37.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision38.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision39.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision40.png
+Date: Sun Jan 31 17:34:12 2021
+
+Info : Loaded texture ./VisionCards/Vision41.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision42.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision43.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision44.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision45.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision46.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision47.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision48.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision49.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision50.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision51.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision52.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision53.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision54.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision55.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision56.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision57.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision58.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision59.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision60.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision61.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision62.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision63.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision64.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision65.png
+Date: Sun Jan 31 17:34:13 2021
+
+Info : Loaded texture ./VisionCards/Vision66.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision67.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision68.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision69.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision70.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision71.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision72.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision73.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision74.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision75.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision76.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision77.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision78.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision79.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision80.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision81.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision82.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision83.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision84.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision85.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision86.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision87.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision88.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision89.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision90.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision91.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision92.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision93.png
+Date: Sun Jan 31 17:34:14 2021
+
+Info : Loaded texture ./VisionCards/Vision94.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision95.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision96.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision97.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision98.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision99.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision100.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision101.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision102.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision103.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision104.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision105.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision106.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision107.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision108.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision109.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision110.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision111.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision112.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision113.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision114.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision115.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision116.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision117.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision118.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision119.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision120.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision121.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision122.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision123.png
+Date: Sun Jan 31 17:34:15 2021
+
+Info : Loaded texture ./VisionCards/Vision124.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision125.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision126.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision127.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision128.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision129.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision130.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision131.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision132.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision133.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision134.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision135.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision136.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision137.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision138.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision139.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision140.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision141.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision142.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision143.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision144.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision145.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision146.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision147.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision148.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision149.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision150.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision151.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision152.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision153.png
+Date: Sun Jan 31 17:34:16 2021
+
+Info : Loaded texture ./VisionCards/Vision154.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision155.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision156.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision157.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision158.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision159.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision160.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision161.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision162.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision163.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision164.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision165.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision166.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision167.png
+Date: Sun Jan 31 17:34:17 2021
+
+Info : Loaded texture ./VisionCards/Vision168.png
+Date: Sun Jan 31 17:34:17 2021
+
+
+Info : Loaded texture ./ClueCards/Suspect1.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect2.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect3.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect4.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect5.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect6.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect7.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect8.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect9.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect10.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect11.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect12.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect13.png
+Date: Sat Apr 24 12:46:01 2021
+
+Info : Loaded texture ./ClueCards/Suspect14.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect15.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect16.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect17.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect18.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect19.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect20.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect21.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect22.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect23.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect24.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect25.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect26.png
+Date: Sat Apr 24 12:46:02 2021
+
+Info : Loaded texture ./ClueCards/Suspect27.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Suspect28.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Suspect29.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Suspect30.png
+Date: Sat Apr 24 12:46:03 2021
+
+
+Info : Loaded texture ./ClueCards/Location1.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location2.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location3.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location4.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location5.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location6.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location7.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location8.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location9.png
+Date: Sat Apr 24 12:46:03 2021
+
+Info : Loaded texture ./ClueCards/Location10.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location11.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location12.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location13.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location14.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location15.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location16.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location17.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location18.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location19.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location20.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location21.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location22.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location23.png
+Date: Sat Apr 24 12:46:04 2021
+
+Info : Loaded texture ./ClueCards/Location24.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Location25.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Location26.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Location27.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Location28.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Location29.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Location30.png
+Date: Sat Apr 24 12:46:05 2021
+
+
+Info : Loaded texture ./ClueCards/Weapon1.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon2.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon3.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon4.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon5.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon6.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon7.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon8.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon9.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon10.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon11.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon12.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon13.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon14.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon15.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon16.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon17.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon18.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon19.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon20.png
+Date: Sat Apr 24 12:46:05 2021
+
+Info : Loaded texture ./ClueCards/Weapon21.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon22.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon23.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon24.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon25.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon26.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon27.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon28.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon29.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./ClueCards/Weapon30.png
+Date: Sat Apr 24 12:46:06 2021
+
+
+Info : Loaded texture ./VisionCards/Vision1.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision2.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision3.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision4.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision5.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision6.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision7.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision8.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision9.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision10.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision11.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision12.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision13.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision14.png
+Date: Sat Apr 24 12:46:06 2021
+
+Info : Loaded texture ./VisionCards/Vision15.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision16.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision17.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision18.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision19.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision20.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision21.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision22.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision23.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision24.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision25.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision26.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision27.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision28.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision29.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision30.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision31.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision32.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision33.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision34.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision35.png
+Date: Sat Apr 24 12:46:07 2021
+
+Info : Loaded texture ./VisionCards/Vision36.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision37.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision38.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision39.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision40.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision41.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision42.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision43.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision44.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision45.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision46.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision47.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision48.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision49.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision50.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision51.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision52.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision53.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision54.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision55.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision56.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision57.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision58.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision59.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision60.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision61.png
+Date: Sat Apr 24 12:46:08 2021
+
+Info : Loaded texture ./VisionCards/Vision62.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision63.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision64.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision65.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision66.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision67.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision68.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision69.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision70.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision71.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision72.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision73.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision74.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision75.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision76.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision77.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision78.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision79.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision80.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision81.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision82.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision83.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision84.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision85.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision86.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision87.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision88.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision89.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision90.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision91.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision92.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision93.png
+Date: Sat Apr 24 12:46:09 2021
+
+Info : Loaded texture ./VisionCards/Vision94.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision95.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision96.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision97.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision98.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision99.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision100.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision101.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision102.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision103.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision104.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision105.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision106.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision107.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision108.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision109.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision110.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision111.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision112.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision113.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision114.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision115.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision116.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision117.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision118.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision119.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision120.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision121.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision122.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision123.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision124.png
+Date: Sat Apr 24 12:46:10 2021
+
+Info : Loaded texture ./VisionCards/Vision125.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision126.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision127.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision128.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision129.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision130.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision131.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision132.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision133.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision134.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision135.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision136.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision137.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision138.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision139.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision140.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision141.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision142.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision143.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision144.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision145.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision146.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision147.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision148.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision149.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision150.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision151.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision152.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision153.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision154.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision155.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision156.png
+Date: Sat Apr 24 12:46:11 2021
+
+Info : Loaded texture ./VisionCards/Vision157.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision158.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision159.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision160.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision161.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision162.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision163.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision164.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision165.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision166.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision167.png
+Date: Sat Apr 24 12:46:12 2021
+
+Info : Loaded texture ./VisionCards/Vision168.png
+Date: Sat Apr 24 12:46:12 2021
+
+

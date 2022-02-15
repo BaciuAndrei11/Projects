@@ -1,0 +1,11 @@
+Info : Vision card 5 for player 1 Date: Sat Apr 24 12:46:49 2021
+
+Info : Vision card 5 for player 2 Date: Sat Apr 24 12:46:49 2021
+
+Info : Vision card 5 for player 3 Date: Sat Apr 24 12:46:50 2021
+
+Info : Vision card 5 for player 4 Date: Sat Apr 24 12:46:50 2021
+
+Warning : The crow wasn't used! Don't forgot to use your advantage. Date: Sat Apr 24 12:46:50 2021
+
+
