@@ -1,0 +1,54 @@
+masina
+Sistem tehnic alcătuit din piese cu mișcări determinate
+auto
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\masina.jfif
+
+mar
+Pom din familia rozaceelor, cu frunze mari, ovale, păroase
+fructe
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\mar.jfif
+
+maimuta
+Nume generic dat animalelor tropicale cu conformația exterioară foarte asemănătoare cu a omului
+animal
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\maimuta.jpg
+
+mamut
+Specie fosilă de elefant care avea corpul acoperit cu peri lungi
+animal
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\mamut.jfif
+
+morcov
+Plantă leguminoasă din familia umbeliferelor, cu rădăcina groasă în formă de con
+legume
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\morcov.jfif
+
+marmota
+Gen de mamifere rozătoare cu corpul scurt și gros, cu blană cenușie, care hibernează
+animal
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\marmota.jpg
+
+minge
+Obiect sferic (rar ovoidal), de diverse dimensiuni și greutăți, confecționat din cauciuc, piele, celuloid, material plastic
+obiect
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\noimage.png
+
+covor
+Țesătură groasă de lână, de bumbac 
+casa
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\noimage.png
+
+caine
+Animal mamifer carnivor, domesticit, folosit pentru pază, vânătoare
+animal
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\Images\caine.jpg
+
+castravete
+Plantă legumicolă cu tulpina agățătoare, acoperită cu peri aspri, cu frunze mari și cu flori galbene 
+legume
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\noimage.png
+
+laptop
+folosit pentru programare
+it
+C:\Users\Andrei\Desktop\MediiVizualeDeProgramare\Dex\Dex\noimage.png

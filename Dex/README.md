@@ -1,0 +1,1 @@
+This app is a dictionary app. You can add new words or look up existing ones. The app also has a mini-game where you have to guess words from a description or picture.
